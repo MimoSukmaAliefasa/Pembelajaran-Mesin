@@ -53,8 +53,8 @@ Proyek ini adalah sistem rekomendasi pekerjaan yang menggunakan metode Cosine Si
                 +-----------------------+
                 |  Tampilkan Rekomendasi |
                 +-----------------------+
-                /             \
-               v               v
+                /                    \
+               v                       v
       +-----------------------+  +-----------------------+
       | Feedback dan Penyesuaian |  |     Selesai         |
       +-----------------------+  +-----------------------+

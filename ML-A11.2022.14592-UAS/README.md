@@ -40,11 +40,9 @@ Proyek ini adalah sistem rekomendasi pekerjaan yang menggunakan metode Cosine Si
       +-----------------------+
       | Hitung Cosine Similarity|
       +-----------------------+
-                |
-                v
-+--------------------+       +--------------------+
-| Filter dan Sortir  |       | Visualisasi Data   |
-+--------------------+       +--------------------+
+       +-----------------+----------------+
+                                           |                                  |
+                                           v                                  v+--------------------+       +--------------------+| Filter dan Sortir  |       | Visualisasi Data   |+--------------------+       +--------------------+
                 \              /
                  v            v
                 +-----------------------+

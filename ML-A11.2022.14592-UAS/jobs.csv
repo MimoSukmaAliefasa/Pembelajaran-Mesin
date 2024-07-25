@@ -1,0 +1,11 @@
+job_id,title,description,requirements,location
+1,Data Scientist,Develop data models and algorithms for predictive analytics.,"Python, R, SQL, Machine Learning","New York, NY"
+2,Frontend Developer,Create interactive and responsive front-end interfaces.,"JavaScript, React, CSS, HTML","San Francisco, CA"
+3,UX Designer,Design user experiences with a focus on accessibility and usability.,"UX Design, Adobe XD, Figma, Prototyping","Austin, TX"
+4,Business Analyst,Analyze business processes and requirements to deliver insights.,"Business Analysis, Excel, SQL, Project Management","Chicago, IL"
+5,Marketing Specialist,Implement and manage marketing campaigns across multiple channels.,"Digital Marketing, SEO, Content Strategy, Google Analytics","Los Angeles, CA"
+6,Machine Learning Engineer,Build and deploy machine learning models and systems.,"Python, TensorFlow, Scikit-learn, Data Analysis","Boston, MA"
+7,Product Manager,Oversee product development and coordinate with cross-functional teams.,"Product Management, Agile, Scrum, Communication","Seattle, WA"
+8,Full Stack Developer,Develop both front-end and back-end components of web applications.,"JavaScript, Node.js, SQL, Cloud Services","Denver, CO"
+9,SEO Specialist,Optimize website content and structure for search engine visibility.,"SEO, Google Analytics, HTML, Keyword Research","Miami, FL"
+10,Graphic Designer,Design visually appealing graphics and branding materials.,"Adobe Photoshop, Illustrator, Branding, Creativity","Portland, OR"

@@ -1,0 +1,21 @@
+applicant_id,name,skills,experience
+1,Alice Johnson,"Data Mining, React, Google Analytics, UX Design",4 years
+2,Bob Smith,"Adobe Photoshop, Python, SQL, Customer Service",3 years
+3,Carol White,"JavaScript, Cloud Services, Content Strategy, Agile",5 years
+4,Dave Brown,"Docker, Business Analysis, Talent Acquisition, SEO",2 years
+5,Eve Davis,"Data Visualization, Communication, R, PPC",6 years
+6,Frank Harris,"Scrum, Problem Solving, Machine Learning, InDesign",4 years
+7,Grace Lee,"Jenkins, SQL, Data Analysis, Product Management",3 years
+8,Henry Wilson,"Python, HTML, Spring Boot, Blogging",5 years
+9,Irene Walker,"Excel, Vue.js, RESTful APIs, Content Creation",4 years
+10,Jack Turner,"Django, Microservices, Customer Service, Social Media Marketing",2 years
+11,Karen Adams,"UX Design, React, Project Management, Google Analytics",3 years
+12,Liam Martinez,"SEO, Java, Adobe Illustrator, ETL",2 years
+13,Mia Rodriguez,"Communication, Python, Docker, Market Research",5 years
+14,Noah King,"Scrum, Digital Marketing, R, Agile",6 years
+15,Olivia Scott,"Business Intelligence, Spring Boot, Social Media Marketing, SQL",3 years
+16,Peter Evans,"Excel, Photoshop, Java, Content Strategy",4 years
+17,Quinn Baker,"Microservices, SEO, Jenkins, InDesign",5 years
+18,Ruby Gonzalez,"Blogging, Digital Marketing, Vue.js, Project Coordination",2 years
+19,Steve Wright,"Customer Service, Cloud Services, PPC, Machine Learning",4 years
+20,Tina Harris,"Python, Google Analytics, React, Branding",3 years
